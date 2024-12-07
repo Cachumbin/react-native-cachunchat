@@ -36,35 +36,3 @@ export default function RootLayout() {
     </ThemeProvider>
   );
 }
-
-/*commenasdasdasdasdsaasdge3d s*/
-/*new line les anoasdasdther sasdasdasooo */
-/*asd*/
-/*asd*/
-/*asghjgfdfghn*/
-
-/*aa*/
-/*gdsbfntjhy4tefdvsbf */
-/*avbhytfty*/
-
-/*asd*/
-
-/*asd*/
-
-/***** */
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
-
-/*asd*/
