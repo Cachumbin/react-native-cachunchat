@@ -8,11 +8,13 @@ import SignOut from "./SignOut";
 
 const App = () => {
   const [user] = useAuthState(auth);
-
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Image source={require("./assets/Recurso1.png")} style={styles.logo} />
+        <Image
+          source={require("../assets/images/Recurso 1.png")}
+          style={styles.logo}
+        />
         <Text style={styles.title}>CachunChat</Text>
         <SignOut />
       </View>
@@ -31,7 +33,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
-    backgroundColor: "linear-gradient(to right, #ff7e5f, #feb47b)",
+    backgroundColor: "#ff7e5f",
     width: "100%",
     padding: 10,
   },
@@ -47,7 +49,7 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
     width: "100%",
-    backgroundColor: "linear-gradient(to bottom right, #ffecd2, #fcb69f)",
+    backgroundColor: "#ffecd2",
   },
 });
 
